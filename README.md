@@ -15,7 +15,10 @@ Run `output_hemis_ts.py` to perform this task.
 Final step and actual analysis of the data is performed by the script `analyse_results.py`.
 
 ### Other scripts
-`lai.py` - various functions used in the analysis
+`hemis_functions.py` - various functions used in the analysis
+
 `lai.py` - LAI refression tree
+
 `fapar.py` - fAPAR refression tree
+
 `fcover.py` - fCOVER refression tree
